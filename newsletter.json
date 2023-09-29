@@ -1,0 +1,20 @@
+{
+    "title": "Newsletter - October 1st",
+    "forward": "This is the description for the first ever official EXCS newsletter!",
+    "items": [
+        {
+            "name": "Text Exeter Mega Meetup",
+            "description": "Meet like-minded people in Exeter",
+            "image": "https://techexeter.uk/wp-content/uploads/2023/08/event-wide-1360x765.jpg",
+            "link": "https://techexeter.uk/",
+            "linkText": "Register"
+        },
+        {
+            "name": "Text Exeter Mega Meetup",
+            "description": "Meet like-minded people in Exeter",
+            "image": "https://techexeter.uk/wp-content/uploads/2023/08/event-wide-1360x765.jpg",
+            "link": "https://techexeter.uk/",
+            "linkText": "Register"
+        }
+    ]
+}

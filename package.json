@@ -1,0 +1,24 @@
+{
+  "name": "newsletter-compiler",
+  "version": "1.0.0",
+  "description": "1.\tTake the details in the speadsheet and copy them into a JSON file.\r 2.\tName this JSON file ‘newsletter.json’ and save it in the same directory as newsletter.js.\r 3.\tOpen the command line in this directory and run the command ‘node newsletter.js’\r 4.\tThis will take the JSON file and compile it into an HTML file to be used for the newsletter, the output is saved in the file ‘newsletter.html’\r 5.\tCongratulations! You have built the newsletter.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exeter-Computer-Science-Society/newsletter-compiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exeter-Computer-Science-Society/newsletter-compiler/issues"
+  },
+  "homepage": "https://github.com/Exeter-Computer-Science-Society/newsletter-compiler#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
